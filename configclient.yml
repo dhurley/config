@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: new message 
+  greeting: new message 2
